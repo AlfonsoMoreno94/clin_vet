@@ -1,0 +1,12 @@
+com/vscodepruebavet/vscodepruebavet/service/DuenioService.class
+com/vscodepruebavet/vscodepruebavet/controller/DuenioController.class
+com/vscodepruebavet/vscodepruebavet/repository/DuenioRepository.class
+com/vscodepruebavet/vscodepruebavet/model/Mascota.class
+com/vscodepruebavet/vscodepruebavet/model/Duenio.class
+com/vscodepruebavet/vscodepruebavet/service/IMascotaService.class
+com/vscodepruebavet/vscodepruebavet/service/MascotaService.class
+com/vscodepruebavet/vscodepruebavet/repository/MascotaRepository.class
+com/vscodepruebavet/vscodepruebavet/service/IDuenioService.class
+com/vscodepruebavet/vscodepruebavet/controller/MascotaController.class
+com/vscodepruebavet/vscodepruebavet/VscodepruebavetApplication.class
+com/vscodepruebavet/vscodepruebavet/dto/DTOMascoDuenio.class
